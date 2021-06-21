@@ -26,7 +26,8 @@ public class PushNotificationHandbookService extends FirebaseMessagingService {
             Log.d(TAG, "Title: " + remoteMessage.getData().get("title") +
                             "Body: " + remoteMessage.getData().get("body"));
         }
-        debugOperation();
+        // Used for testing purposes
+        // debugOperation();
     }
 
     @Override
