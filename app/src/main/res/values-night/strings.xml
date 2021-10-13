@@ -1,7 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">PushNotificationsHandbook</string>
-    <string name="push_notifications_handbook">Push Notifications Handbook</string>
-    <string name="push_error_device_not_compatible">This device is not supported.</string>
     <string name="push_notification_received">Push notification was received!</string>
     <string name="score">Score: %1$s</string>
     <string name="from">From: %1$s</string>
