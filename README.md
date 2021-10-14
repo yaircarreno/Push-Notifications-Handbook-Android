@@ -9,7 +9,7 @@ I recommend this book for any actor who participates in designing, implementing 
 
 ## Versions of IDEs and technologies used.
 
-- **IDE**: Android Studio 4.2.1
+- **IDE**: Android Studio - Arctic Fox
 - **Deployment SDK**: API 30 - Android 11.
 - **Minimum SDK**: API 21 - Android 5.0 (Lollipop)
 - **Languaje**: Java
@@ -20,3 +20,4 @@ I recommend this book for any actor who participates in designing, implementing 
 The reader will also be able to access the public repositories written for iOS at:
 
 - [Push Notifications Handbook iOS](https://github.com/yaircarreno/Push-Notifications-Handbook-iOS)
+- [Push Notifications Handbook Android with Kotlin](https://github.com/yaircarreno/Push-Notifications-Handbook-Android-Kotlin)
